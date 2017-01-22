@@ -1,0 +1,6 @@
+C:\Users\Damir Topic\Source\Repos\BatchExecuter2\ChromeNameTest\ChromeNameTest\bin\Debug\ChromeNameTest.exe.config
+C:\Users\Damir Topic\Source\Repos\BatchExecuter2\ChromeNameTest\ChromeNameTest\bin\Debug\ChromeNameTest.exe
+C:\Users\Damir Topic\Source\Repos\BatchExecuter2\ChromeNameTest\ChromeNameTest\bin\Debug\ChromeNameTest.pdb
+C:\Users\Damir Topic\Source\Repos\BatchExecuter2\ChromeNameTest\ChromeNameTest\obj\Debug\ChromeNameTest.csprojResolveAssemblyReference.cache
+C:\Users\Damir Topic\Source\Repos\BatchExecuter2\ChromeNameTest\ChromeNameTest\obj\Debug\ChromeNameTest.exe
+C:\Users\Damir Topic\Source\Repos\BatchExecuter2\ChromeNameTest\ChromeNameTest\obj\Debug\ChromeNameTest.pdb
